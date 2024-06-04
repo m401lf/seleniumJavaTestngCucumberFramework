@@ -1,0 +1,611 @@
+2024-06-04 09:06:584 INFO  JavaScriptHelper:29 - scroll to <SKINSHEEN BRONZER STICK
+$29.50> WebElement
+2024-06-04 09:06:551 INFO  BaseTest:137 - Quitting driver.....
+2024-06-04 09:06:19 INFO  VerificationHelper:135 - page Url is: https://automationteststore.com/
+2024-06-04 09:06:64 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:114 INFO  VerificationHelper:130 - page title is: A place to practice your automation skills!
+2024-06-04 09:06:124 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:260 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> css selector: ul#customer_menu_top>li>a]
+2024-06-04 09:06:291 INFO  VerificationHelper:103 - Element text is displayed:: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> css selector: ul#customer_menu_top>li>a]
+2024-06-04 09:06:401 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:619 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:740 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:864 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:46 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:156 INFO  TopMenuPage:294 - Index 0 :: Element is Present:  SPECIALS
+2024-06-04 09:06:249 INFO  TopMenuPage:294 - Index 1 :: Element is Present:  ACCOUNT
+2024-06-04 09:06:340 INFO  TopMenuPage:294 - Index 2 :: Element is Present:  CART
+2024-06-04 09:06:478 INFO  TopMenuPage:294 - Index 3 :: Element is Present:  CHECKOUT
+2024-06-04 09:06:551 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:633 INFO  TopMenuPage:294 - Index 0 :: Element is Present:  SPECIALS
+2024-06-04 09:06:704 INFO  TopMenuPage:294 - Index 1 :: Element is Present:  ACCOUNT
+2024-06-04 09:06:803 INFO  TopMenuPage:294 - Index 2 :: Element is Present:  CART
+2024-06-04 09:06:47 INFO  TopMenuPage:294 - Index 3 :: Element is Present:  CHECKOUT
+2024-06-04 09:06:137 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:250 INFO  TopMenuPage:294 - Index 0 :: Element is Present:  SPECIALS
+2024-06-04 09:06:362 INFO  TopMenuPage:294 - Index 1 :: Element is Present:  ACCOUNT
+2024-06-04 09:06:453 INFO  TopMenuPage:294 - Index 2 :: Element is Present:  CART
+2024-06-04 09:06:572 INFO  TopMenuPage:294 - Index 3 :: Element is Present:  CHECKOUT
+2024-06-04 09:06:743 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:858 INFO  TopMenuPage:294 - Index 0 :: Element is Present:  SPECIALS
+2024-06-04 09:06:959 INFO  TopMenuPage:294 - Index 1 :: Element is Present:  ACCOUNT
+2024-06-04 09:06:193 INFO  TopMenuPage:294 - Index 2 :: Element is Present:  CART
+2024-06-04 09:06:293 INFO  TopMenuPage:294 - Index 3 :: Element is Present:  CHECKOUT
+2024-06-04 09:06:429 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:482 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> css selector: ul#customer_menu_top>li>a]
+2024-06-04 09:06:498 INFO  VerificationHelper:103 - Element text is displayed:: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> css selector: ul#customer_menu_top>li>a]
+2024-06-04 09:06:521 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:283 INFO  VerificationHelper:135 - page Url is: https://automationteststore.com/index.php?rt=account/login
+2024-06-04 09:06:319 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:547 INFO  VerificationHelper:130 - page title is: Account Login
+2024-06-04 09:06:583 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:797 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:904 INFO  BasePage:129 - true
+2024-06-04 09:06:966 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:490 INFO  BasePage:129 - true
+2024-06-04 09:06:595 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:688 INFO  BasePage:129 - true
+2024-06-04 09:06:753 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:803 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> css selector: .col-sm-6.newcustomer > .heading2]
+2024-06-04 09:06:820 INFO  VerificationHelper:103 - Element text is displayed:: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> css selector: .col-sm-6.newcustomer > .heading2]
+2024-06-04 09:06:848 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:902 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> xpath: //h2[contains(text(),'Returning Customer')]]
+2024-06-04 09:06:914 INFO  VerificationHelper:103 - Element text is displayed:: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> xpath: //h2[contains(text(),'Returning Customer')]]
+2024-06-04 09:06:25 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:78 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> css selector: label[for='accountFrm_accountregister']]
+2024-06-04 09:06:98 INFO  VerificationHelper:103 - Element text is displayed:: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> css selector: label[for='accountFrm_accountregister']]
+2024-06-04 09:06:125 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:180 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:220 INFO  JavaScriptHelper:29 - scroll to <Continue> WebElement
+2024-06-04 09:06:35 INFO  BasePage:247 - Waited for element visibility :: Continue
+2024-06-04 09:06:86 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> xpath: //*[@id='accountFrm']/fieldset/button]
+2024-06-04 09:06:111 INFO  VerificationHelper:103 - Element text is displayed:: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> xpath: //*[@id='accountFrm']/fieldset/button]
+2024-06-04 09:06:187 INFO  BasePage:234 - Clicked on :: Continue
+2024-06-04 09:06:07 INFO  VerificationHelper:135 - page Url is: https://automationteststore.com/index.php?rt=account/create
+2024-06-04 09:06:71 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:167 INFO  VerificationHelper:130 - page title is: Create Account
+2024-06-04 09:06:186 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:249 INFO  VerificationHelper:130 - page title is: Create Account
+2024-06-04 09:06:260 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:406 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> css selector: span.maintext]
+2024-06-04 09:06:420 INFO  VerificationHelper:103 - Element text is displayed:: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> css selector: span.maintext]
+2024-06-04 09:06:448 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:629 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:716 INFO  BasePage:129 - true
+2024-06-04 09:06:766 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:831 INFO  BasePage:129 - true
+2024-06-04 09:06:885 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:980 INFO  BasePage:129 - true
+2024-06-04 09:06:30 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:63 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/form[1]/p[1]]
+2024-06-04 09:06:80 INFO  VerificationHelper:103 - Element text is displayed:: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/form[1]/p[1]]
+2024-06-04 09:06:103 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:130 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> xpath: //h4[contains(text(),'Your Personal Details')]]
+2024-06-04 09:06:152 INFO  VerificationHelper:103 - Element text is displayed:: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> xpath: //h4[contains(text(),'Your Personal Details')]]
+2024-06-04 09:06:166 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:214 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> xpath: //h4[contains(text(),'Your Address')]]
+2024-06-04 09:06:219 INFO  VerificationHelper:103 - Element text is displayed:: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> xpath: //h4[contains(text(),'Your Address')]]
+2024-06-04 09:06:247 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:295 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> xpath: //h4[contains(text(),'Login Details')]]
+2024-06-04 09:06:306 INFO  VerificationHelper:103 - Element text is displayed:: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> xpath: //h4[contains(text(),'Login Details')]]
+2024-06-04 09:06:328 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:361 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> xpath: //h4[contains(text(),'Newsletter')]]
+2024-06-04 09:06:370 INFO  VerificationHelper:103 - Element text is displayed:: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> xpath: //h4[contains(text(),'Newsletter')]]
+2024-06-04 09:06:380 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:429 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:621 INFO  RegisterPage:232 - Entered first name : FirstName
+2024-06-04 09:06:764 INFO  RegisterPage:238 - Entered last name : LastName
+2024-06-04 09:06:46 INFO  RegisterPage:257 - Entered telephone : 0740500000000
+2024-06-04 09:06:201 INFO  RegisterPage:263 - Entered fax : 0740500000001
+2024-06-04 09:06:421 INFO  RegisterPage:246 - Entered email : 1717489697201@gmail.com
+2024-06-04 09:06:549 INFO  RegisterPage:283 - Entered company name : ABC Company Ltd
+2024-06-04 09:06:699 INFO  RegisterPage:289 - Entered address 1 : Address 1
+2024-06-04 09:06:820 INFO  RegisterPage:295 - Entered address 2 : Address 2
+2024-06-04 09:06:934 INFO  RegisterPage:301 - Entered city : Manchester
+2024-06-04 09:06:112 INFO  BasePage:156 - Option selected by VisibleText ::<Lancashire>
+2024-06-04 09:06:112 INFO  RegisterPage:307 - Selected region or state : Lancashire
+2024-06-04 09:06:310 INFO  RegisterPage:313 - Entered zip or postal code : M18 7QT
+2024-06-04 09:06:443 INFO  BasePage:156 - Option selected by VisibleText ::<United Kingdom>
+2024-06-04 09:06:443 INFO  RegisterPage:319 - Selected country : United Kingdom
+2024-06-04 09:06:617 INFO  RegisterPage:354 - Entered login name : 1717489698488Gen
+2024-06-04 09:06:711 INFO  RegisterPage:361 - Entered password : password
+2024-06-04 09:06:818 INFO  RegisterPage:367 - Entered password confirm : password
+2024-06-04 09:06:883 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> xpath: //label[@for='AccountFrm_newsletter1']]
+2024-06-04 09:06:898 INFO  VerificationHelper:103 - Element text is displayed:: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> xpath: //label[@for='AccountFrm_newsletter1']]
+2024-06-04 09:06:947 INFO  JavaScriptHelper:29 - scroll to <> WebElement
+2024-06-04 09:06:66 INFO  RegisterPage:379 - Ticked on subscribe as yes
+2024-06-04 09:06:111 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> xpath: //label[@for='AccountFrm_newsletter1']]
+2024-06-04 09:06:114 INFO  VerificationHelper:103 - Element text is displayed:: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> xpath: //label[@for='AccountFrm_newsletter1']]
+2024-06-04 09:06:182 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:231 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> css selector: label[class='col-md-6 mt20 mb40'] a b]
+2024-06-04 09:06:231 INFO  VerificationHelper:103 - Element text is displayed:: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> css selector: label[class='col-md-6 mt20 mb40'] a b]
+2024-06-04 09:06:283 INFO  BasePage:234 - Clicked on :: 
+2024-06-04 09:06:411 INFO  RegisterPage:411 - Checked on I agree to privacy policy radio button
+2024-06-04 09:06:478 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:511 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> css selector: label[class='col-md-6 mt20 mb40'] a b]
+2024-06-04 09:06:527 INFO  VerificationHelper:103 - Element text is displayed:: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> css selector: label[class='col-md-6 mt20 mb40'] a b]
+2024-06-04 09:06:594 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> css selector: button[title='Continue']]
+2024-06-04 09:06:594 INFO  VerificationHelper:103 - Element text is displayed:: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> css selector: button[title='Continue']]
+2024-06-04 09:06:875 INFO  BasePage:725 - 709
+2024-06-04 09:06:875 INFO  BasePage:726 - 1592
+2024-06-04 09:06:899 INFO  BasePage:728 - 709
+2024-06-04 09:06:899 INFO  BasePage:729 - 1592
+2024-06-04 09:06:566 INFO  RegisterPage:546 - Click on continue button in registration page
+2024-06-04 09:06:587 INFO  VerificationHelper:135 - page Url is: https://automationteststore.com/index.php?rt=account/success
+2024-06-04 09:06:595 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:609 INFO  VerificationHelper:130 - page title is: Your Account Has Been Created!
+2024-06-04 09:06:609 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:786 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:847 INFO  BasePage:129 - true
+2024-06-04 09:06:890 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:965 INFO  BasePage:129 - true
+2024-06-04 09:06:07 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:47 INFO  BasePage:129 - true
+2024-06-04 09:06:91 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:112 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:143 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> xpath: //div[contains(text(),'Welcome back')]]
+2024-06-04 09:06:169 INFO  VerificationHelper:103 - Element text is displayed:: [[ChromeDriver: chrome on windows (e87f55d0786beb4f2acbad61bc839e1a)] -> xpath: //div[contains(text(),'Welcome back')]]
+2024-06-04 09:06:182 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:213 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:233 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:266 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:309 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:347 INFO  AsideWidgetPage:47 - Taped on Logout link
+2024-06-04 09:06:401 INFO  BasePage:342 - Waited and Successfully clicked on the element :: Continue
+2024-06-04 09:06:401 INFO  BasePage:360 - Waiting for element to be visible
+2024-06-04 09:06:813 INFO  BasePage:363 - Successfully clicked on the element
+2024-06-04 09:06:813 INFO  LogoutPage:46 - Clicked logout continue button..
+2024-06-04 09:06:230 INFO  VerificationHelper:135 - current page url is :: https://automationteststore.com/
+2024-06-04 09:06:364 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:445 INFO  VerificationHelper:130 - current page title is :: A place to practice your automation skills!
+2024-06-04 09:06:466 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:565 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> css selector: ul#customer_menu_top>li>a]
+2024-06-04 09:06:580 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> css selector: ul#customer_menu_top>li>a]
+2024-06-04 09:06:835 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:17 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:123 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:247 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:319 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:703 INFO  TopMenuPage:294 - Index 0 :: Element is Present:  SPECIALS
+2024-06-04 09:06:774 INFO  TopMenuPage:294 - Index 1 :: Element is Present:  ACCOUNT
+2024-06-04 09:06:835 INFO  TopMenuPage:294 - Index 2 :: Element is Present:  CART
+2024-06-04 09:06:907 INFO  TopMenuPage:294 - Index 3 :: Element is Present:  CHECKOUT
+2024-06-04 09:06:965 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:88 INFO  TopMenuPage:294 - Index 0 :: Element is Present:  SPECIALS
+2024-06-04 09:06:212 INFO  TopMenuPage:294 - Index 1 :: Element is Present:  ACCOUNT
+2024-06-04 09:06:300 INFO  TopMenuPage:294 - Index 2 :: Element is Present:  CART
+2024-06-04 09:06:553 INFO  TopMenuPage:294 - Index 3 :: Element is Present:  CHECKOUT
+2024-06-04 09:06:633 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:785 INFO  TopMenuPage:294 - Index 0 :: Element is Present:  SPECIALS
+2024-06-04 09:06:876 INFO  TopMenuPage:294 - Index 1 :: Element is Present:  ACCOUNT
+2024-06-04 09:06:947 INFO  TopMenuPage:294 - Index 2 :: Element is Present:  CART
+2024-06-04 09:06:17 INFO  TopMenuPage:294 - Index 3 :: Element is Present:  CHECKOUT
+2024-06-04 09:06:116 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:196 INFO  TopMenuPage:294 - Index 0 :: Element is Present:  SPECIALS
+2024-06-04 09:06:256 INFO  TopMenuPage:294 - Index 1 :: Element is Present:  ACCOUNT
+2024-06-04 09:06:343 INFO  TopMenuPage:294 - Index 2 :: Element is Present:  CART
+2024-06-04 09:06:439 INFO  TopMenuPage:294 - Index 3 :: Element is Present:  CHECKOUT
+2024-06-04 09:06:580 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:616 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> css selector: ul#customer_menu_top>li>a]
+2024-06-04 09:06:632 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> css selector: ul#customer_menu_top>li>a]
+2024-06-04 09:06:650 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:85 INFO  VerificationHelper:135 - current page url is :: https://automationteststore.com/index.php?rt=account/login
+2024-06-04 09:06:95 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:106 INFO  VerificationHelper:130 - current page title is :: Account Login
+2024-06-04 09:06:124 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:283 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:390 INFO  BasePage:129 - true
+2024-06-04 09:06:439 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:544 INFO  BasePage:129 - true
+2024-06-04 09:06:583 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:620 INFO  BasePage:129 - true
+2024-06-04 09:06:699 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:753 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> css selector: .col-sm-6.newcustomer > .heading2]
+2024-06-04 09:06:771 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> css selector: .col-sm-6.newcustomer > .heading2]
+2024-06-04 09:06:787 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:850 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> xpath: //h2[contains(text(),'Returning Customer')]]
+2024-06-04 09:06:862 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> xpath: //h2[contains(text(),'Returning Customer')]]
+2024-06-04 09:06:904 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:22 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> css selector: label[for='accountFrm_accountregister']]
+2024-06-04 09:06:38 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> css selector: label[for='accountFrm_accountregister']]
+2024-06-04 09:06:94 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:156 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:188 INFO  JavaScriptHelper:29 - scroll to <Continue> WebElement
+2024-06-04 09:06:407 INFO  BasePage:247 - Waited for element visibility :: Continue
+2024-06-04 09:06:453 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> xpath: //*[@id='accountFrm']/fieldset/button]
+2024-06-04 09:06:476 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> xpath: //*[@id='accountFrm']/fieldset/button]
+2024-06-04 09:06:536 INFO  BasePage:234 - Clicked on :: Continue
+2024-06-04 09:06:198 INFO  VerificationHelper:135 - current page url is :: https://automationteststore.com/index.php?rt=account/create
+2024-06-04 09:06:216 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:356 INFO  VerificationHelper:130 - current page title is :: Create Account
+2024-06-04 09:06:371 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:525 INFO  VerificationHelper:130 - current page title is :: Create Account
+2024-06-04 09:06:579 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:790 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> css selector: span.maintext]
+2024-06-04 09:06:806 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> css selector: span.maintext]
+2024-06-04 09:06:840 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:19 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:93 INFO  BasePage:129 - true
+2024-06-04 09:06:133 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:240 INFO  BasePage:129 - true
+2024-06-04 09:06:283 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:416 INFO  BasePage:129 - true
+2024-06-04 09:06:448 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:500 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/form[1]/p[1]]
+2024-06-04 09:06:511 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/form[1]/p[1]]
+2024-06-04 09:06:533 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:568 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> xpath: //h4[contains(text(),'Your Personal Details')]]
+2024-06-04 09:06:577 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> xpath: //h4[contains(text(),'Your Personal Details')]]
+2024-06-04 09:06:600 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:634 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> xpath: //h4[contains(text(),'Your Address')]]
+2024-06-04 09:06:645 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> xpath: //h4[contains(text(),'Your Address')]]
+2024-06-04 09:06:670 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:711 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> xpath: //h4[contains(text(),'Login Details')]]
+2024-06-04 09:06:716 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> xpath: //h4[contains(text(),'Login Details')]]
+2024-06-04 09:06:743 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:779 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> xpath: //h4[contains(text(),'Newsletter')]]
+2024-06-04 09:06:781 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> xpath: //h4[contains(text(),'Newsletter')]]
+2024-06-04 09:06:805 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:839 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:15 INFO  RegisterPage:226 - Entered first name : FirstName
+2024-06-04 09:06:205 INFO  RegisterPage:232 - Entered last name : LastName
+2024-06-04 09:06:438 INFO  RegisterPage:251 - Entered telephone : 0740500000000
+2024-06-04 09:06:669 INFO  RegisterPage:257 - Entered fax : 0740500000001
+2024-06-04 09:06:987 INFO  RegisterPage:240 - Entered email : 1717490901671@gmail.com
+2024-06-04 09:06:153 INFO  RegisterPage:277 - Entered company name : ABC Company Ltd
+2024-06-04 09:06:282 INFO  RegisterPage:283 - Entered address 1 : Address 1
+2024-06-04 09:06:413 INFO  RegisterPage:289 - Entered address 2 : Address 2
+2024-06-04 09:06:558 INFO  RegisterPage:295 - Entered city : Manchester
+2024-06-04 09:06:730 INFO  BasePage:156 - Option selected by VisibleText ::<Lancashire>
+2024-06-04 09:06:730 INFO  RegisterPage:301 - Selected region or state : Lancashire
+2024-06-04 09:06:854 INFO  RegisterPage:307 - Entered zip or postal code : M18 7QT
+2024-06-04 09:06:962 INFO  BasePage:156 - Option selected by VisibleText ::<United Kingdom>
+2024-06-04 09:06:962 INFO  RegisterPage:313 - Selected country : United Kingdom
+2024-06-04 09:06:145 INFO  RegisterPage:345 - Entered login name : 1717490903014Gen
+2024-06-04 09:06:228 INFO  RegisterPage:352 - Entered password : password
+2024-06-04 09:06:328 INFO  RegisterPage:358 - Entered password confirm : password
+2024-06-04 09:06:379 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> xpath: //label[@for='AccountFrm_newsletter1']]
+2024-06-04 09:06:384 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> xpath: //label[@for='AccountFrm_newsletter1']]
+2024-06-04 09:06:445 INFO  JavaScriptHelper:29 - scroll to <> WebElement
+2024-06-04 09:06:562 INFO  RegisterPage:370 - Ticked on subscribe as yes
+2024-06-04 09:06:596 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> xpath: //label[@for='AccountFrm_newsletter1']]
+2024-06-04 09:06:596 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> xpath: //label[@for='AccountFrm_newsletter1']]
+2024-06-04 09:06:663 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:696 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> css selector: label[class='col-md-6 mt20 mb40'] a b]
+2024-06-04 09:06:713 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> css selector: label[class='col-md-6 mt20 mb40'] a b]
+2024-06-04 09:06:819 INFO  RegisterPage:402 - Checked on I agree to privacy policy radio button
+2024-06-04 09:06:864 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:914 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> css selector: label[class='col-md-6 mt20 mb40'] a b]
+2024-06-04 09:06:933 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> css selector: label[class='col-md-6 mt20 mb40'] a b]
+2024-06-04 09:06:994 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> css selector: button[title='Continue']]
+2024-06-04 09:06:12 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> css selector: button[title='Continue']]
+2024-06-04 09:06:213 INFO  BasePage:725 - 709
+2024-06-04 09:06:213 INFO  BasePage:726 - 1592
+2024-06-04 09:06:229 INFO  BasePage:728 - 709
+2024-06-04 09:06:229 INFO  BasePage:729 - 1592
+2024-06-04 09:06:917 INFO  RegisterPage:528 - Click on continue button in registration page
+2024-06-04 09:06:943 INFO  VerificationHelper:135 - current page url is :: https://automationteststore.com/index.php?rt=account/success
+2024-06-04 09:06:950 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:969 INFO  VerificationHelper:130 - current page title is :: Your Account Has Been Created!
+2024-06-04 09:06:976 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:110 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:157 INFO  BasePage:129 - true
+2024-06-04 09:06:195 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:250 INFO  BasePage:129 - true
+2024-06-04 09:06:296 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:364 INFO  BasePage:129 - true
+2024-06-04 09:06:400 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:431 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:464 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> xpath: //div[contains(text(),'Welcome back')]]
+2024-06-04 09:06:479 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (1a86867c40372d4c7d2f75bc7a90e65f)] -> xpath: //div[contains(text(),'Welcome back')]]
+2024-06-04 09:06:493 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:509 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:540 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:579 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:595 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:645 INFO  AsideWidgetPage:47 - Taped on Logout link
+2024-06-04 09:06:676 INFO  BasePage:342 - Waited and Successfully clicked on the element :: Continue
+2024-06-04 09:06:676 INFO  BasePage:360 - Waiting for element to be visible
+2024-06-04 09:06:81 INFO  BasePage:363 - Successfully clicked on the element
+2024-06-04 09:06:81 INFO  LogoutPage:46 - Clicked logout continue button..
+2024-06-04 09:06:338 INFO  VerificationHelper:135 - current page url is :: https://automationteststore.com/
+2024-06-04 09:06:372 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:519 INFO  VerificationHelper:130 - current page title is :: A place to practice your automation skills!
+2024-06-04 09:06:550 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:771 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> css selector: ul#customer_menu_top>li>a]
+2024-06-04 09:06:831 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> css selector: ul#customer_menu_top>li>a]
+2024-06-04 09:06:919 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:63 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:164 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:276 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:356 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:447 INFO  TopMenuPage:294 - Index 0 :: Element is Present:  SPECIALS
+2024-06-04 09:06:518 INFO  TopMenuPage:294 - Index 1 :: Element is Present:  ACCOUNT
+2024-06-04 09:06:586 INFO  TopMenuPage:294 - Index 2 :: Element is Present:  CART
+2024-06-04 09:06:649 INFO  TopMenuPage:294 - Index 3 :: Element is Present:  CHECKOUT
+2024-06-04 09:06:699 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:781 INFO  TopMenuPage:294 - Index 0 :: Element is Present:  SPECIALS
+2024-06-04 09:06:852 INFO  TopMenuPage:294 - Index 1 :: Element is Present:  ACCOUNT
+2024-06-04 09:06:921 INFO  TopMenuPage:294 - Index 2 :: Element is Present:  CART
+2024-06-04 09:06:982 INFO  TopMenuPage:294 - Index 3 :: Element is Present:  CHECKOUT
+2024-06-04 09:06:75 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:145 INFO  TopMenuPage:294 - Index 0 :: Element is Present:  SPECIALS
+2024-06-04 09:06:206 INFO  TopMenuPage:294 - Index 1 :: Element is Present:  ACCOUNT
+2024-06-04 09:06:277 INFO  TopMenuPage:294 - Index 2 :: Element is Present:  CART
+2024-06-04 09:06:387 INFO  TopMenuPage:294 - Index 3 :: Element is Present:  CHECKOUT
+2024-06-04 09:06:497 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:570 INFO  TopMenuPage:294 - Index 0 :: Element is Present:  SPECIALS
+2024-06-04 09:06:642 INFO  TopMenuPage:294 - Index 1 :: Element is Present:  ACCOUNT
+2024-06-04 09:06:712 INFO  TopMenuPage:294 - Index 2 :: Element is Present:  CART
+2024-06-04 09:06:773 INFO  TopMenuPage:294 - Index 3 :: Element is Present:  CHECKOUT
+2024-06-04 09:06:908 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:945 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> css selector: ul#customer_menu_top>li>a]
+2024-06-04 09:06:955 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> css selector: ul#customer_menu_top>li>a]
+2024-06-04 09:06:983 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:486 INFO  VerificationHelper:135 - current page url is :: https://automationteststore.com/index.php?rt=account/login
+2024-06-04 09:06:496 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:523 INFO  VerificationHelper:130 - current page title is :: Account Login
+2024-06-04 09:06:543 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:751 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:841 INFO  BasePage:129 - true
+2024-06-04 09:06:903 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:939 INFO  BasePage:129 - true
+2024-06-04 09:06:39 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:91 INFO  BasePage:129 - true
+2024-06-04 09:06:124 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:170 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> css selector: .col-sm-6.newcustomer > .heading2]
+2024-06-04 09:06:191 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> css selector: .col-sm-6.newcustomer > .heading2]
+2024-06-04 09:06:222 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:262 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> xpath: //h2[contains(text(),'Returning Customer')]]
+2024-06-04 09:06:281 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> xpath: //h2[contains(text(),'Returning Customer')]]
+2024-06-04 09:06:320 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:414 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> css selector: label[for='accountFrm_accountregister']]
+2024-06-04 09:06:434 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> css selector: label[for='accountFrm_accountregister']]
+2024-06-04 09:06:452 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:493 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:516 INFO  JavaScriptHelper:29 - scroll to <Continue> WebElement
+2024-06-04 09:06:699 INFO  BasePage:247 - Waited for element visibility :: Continue
+2024-06-04 09:06:730 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> xpath: //*[@id='accountFrm']/fieldset/button]
+2024-06-04 09:06:746 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> xpath: //*[@id='accountFrm']/fieldset/button]
+2024-06-04 09:06:787 INFO  BasePage:234 - Clicked on :: Continue
+2024-06-04 09:06:349 INFO  VerificationHelper:135 - current page url is :: https://automationteststore.com/index.php?rt=account/create
+2024-06-04 09:06:354 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:388 INFO  VerificationHelper:130 - current page title is :: Create Account
+2024-06-04 09:06:402 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:438 INFO  VerificationHelper:130 - current page title is :: Create Account
+2024-06-04 09:06:451 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:637 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> css selector: span.maintext]
+2024-06-04 09:06:687 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> css selector: span.maintext]
+2024-06-04 09:06:719 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:872 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:914 INFO  BasePage:129 - true
+2024-06-04 09:06:957 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:53 INFO  BasePage:129 - true
+2024-06-04 09:06:101 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:189 INFO  BasePage:129 - true
+2024-06-04 09:06:317 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:375 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/form[1]/p[1]]
+2024-06-04 09:06:402 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/form[1]/p[1]]
+2024-06-04 09:06:443 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:513 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> xpath: //h4[contains(text(),'Your Personal Details')]]
+2024-06-04 09:06:536 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> xpath: //h4[contains(text(),'Your Personal Details')]]
+2024-06-04 09:06:567 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:618 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> xpath: //h4[contains(text(),'Your Address')]]
+2024-06-04 09:06:637 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> xpath: //h4[contains(text(),'Your Address')]]
+2024-06-04 09:06:676 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:731 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> xpath: //h4[contains(text(),'Login Details')]]
+2024-06-04 09:06:746 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> xpath: //h4[contains(text(),'Login Details')]]
+2024-06-04 09:06:783 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:833 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> xpath: //h4[contains(text(),'Newsletter')]]
+2024-06-04 09:06:844 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> xpath: //h4[contains(text(),'Newsletter')]]
+2024-06-04 09:06:866 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:917 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:223 INFO  RegisterPage:226 - Entered first name : FirstName
+2024-06-04 09:06:538 INFO  RegisterPage:232 - Entered last name : LastName
+2024-06-04 09:06:833 INFO  RegisterPage:251 - Entered telephone : 0740500000000
+2024-06-04 09:06:35 INFO  RegisterPage:257 - Entered fax : 0740500000001
+2024-06-04 09:06:387 INFO  RegisterPage:240 - Entered email : 1717491058035@gmail.com
+2024-06-04 09:06:689 INFO  RegisterPage:277 - Entered company name : ABC Company Ltd
+2024-06-04 09:06:942 INFO  RegisterPage:283 - Entered address 1 : Address 1
+2024-06-04 09:06:355 INFO  RegisterPage:289 - Entered address 2 : Address 2
+2024-06-04 09:06:520 INFO  RegisterPage:295 - Entered city : Manchester
+2024-06-04 09:06:845 INFO  BasePage:156 - Option selected by VisibleText ::<Lancashire>
+2024-06-04 09:06:849 INFO  RegisterPage:301 - Selected region or state : Lancashire
+2024-06-04 09:06:133 INFO  RegisterPage:307 - Entered zip or postal code : M18 7QT
+2024-06-04 09:06:336 INFO  BasePage:156 - Option selected by VisibleText ::<United Kingdom>
+2024-06-04 09:06:336 INFO  RegisterPage:313 - Selected country : United Kingdom
+2024-06-04 09:06:559 INFO  RegisterPage:345 - Entered login name : 1717491060400Gen
+2024-06-04 09:06:705 INFO  RegisterPage:352 - Entered password : password
+2024-06-04 09:06:874 INFO  RegisterPage:358 - Entered password confirm : password
+2024-06-04 09:06:938 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> xpath: //label[@for='AccountFrm_newsletter1']]
+2024-06-04 09:06:958 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> xpath: //label[@for='AccountFrm_newsletter1']]
+2024-06-04 09:06:37 INFO  JavaScriptHelper:29 - scroll to <> WebElement
+2024-06-04 09:06:232 INFO  RegisterPage:370 - Ticked on subscribe as yes
+2024-06-04 09:06:286 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> xpath: //label[@for='AccountFrm_newsletter1']]
+2024-06-04 09:06:312 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> xpath: //label[@for='AccountFrm_newsletter1']]
+2024-06-04 09:06:413 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:472 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> css selector: label[class='col-md-6 mt20 mb40'] a b]
+2024-06-04 09:06:485 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> css selector: label[class='col-md-6 mt20 mb40'] a b]
+2024-06-04 09:06:658 INFO  RegisterPage:402 - Checked on I agree to privacy policy radio button
+2024-06-04 09:06:716 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:762 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> css selector: label[class='col-md-6 mt20 mb40'] a b]
+2024-06-04 09:06:780 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> css selector: label[class='col-md-6 mt20 mb40'] a b]
+2024-06-04 09:06:881 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> css selector: button[title='Continue']]
+2024-06-04 09:06:901 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> css selector: button[title='Continue']]
+2024-06-04 09:06:570 INFO  RegisterPage:526 - Click on continue button in registration page
+2024-06-04 09:06:583 INFO  VerificationHelper:135 - current page url is :: https://automationteststore.com/index.php?rt=account/success
+2024-06-04 09:06:600 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:629 INFO  VerificationHelper:130 - current page title is :: Your Account Has Been Created!
+2024-06-04 09:06:629 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:790 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:832 INFO  BasePage:129 - true
+2024-06-04 09:06:879 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:933 INFO  BasePage:129 - true
+2024-06-04 09:06:963 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:02 INFO  BasePage:129 - true
+2024-06-04 09:06:51 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:67 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:116 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> xpath: //div[contains(text(),'Welcome back')]]
+2024-06-04 09:06:116 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (fd2ad6e39419412f7ebf57f1e05c00a3)] -> xpath: //div[contains(text(),'Welcome back')]]
+2024-06-04 09:06:136 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:151 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:183 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:198 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:214 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 09:06:287 INFO  AsideWidgetPage:47 - Taped on Logout link
+2024-06-04 09:06:318 INFO  BasePage:342 - Waited and Successfully clicked on the element :: Continue
+2024-06-04 09:06:318 INFO  BasePage:360 - Waiting for element to be visible
+2024-06-04 09:06:733 INFO  BasePage:363 - Successfully clicked on the element
+2024-06-04 09:06:733 INFO  LogoutPage:46 - Clicked logout continue button..
+2024-06-04 12:06:98 INFO  BaseTest:137 - Quitting driver.....
+2024-06-04 13:06:808 INFO  BaseTest:137 - Quitting driver.....
+2024-06-04 13:06:360 INFO  BaseTest:137 - Quitting driver.....
+2024-06-04 16:06:510 INFO  VerificationHelper:135 - current page url is :: https://automationteststore.com/
+2024-06-04 16:06:528 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:570 INFO  VerificationHelper:130 - current page title is :: A place to practice your automation skills!
+2024-06-04 16:06:578 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:656 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> css selector: ul#customer_menu_top>li>a]
+2024-06-04 16:06:670 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> css selector: ul#customer_menu_top>li>a]
+2024-06-04 16:06:724 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:984 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:138 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:239 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:329 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:447 INFO  TopMenuPage:295 - Index 0 :: Element is Present:  SPECIALS
+2024-06-04 16:06:555 INFO  TopMenuPage:295 - Index 1 :: Element is Present:  ACCOUNT
+2024-06-04 16:06:627 INFO  TopMenuPage:295 - Index 2 :: Element is Present:  CART
+2024-06-04 16:06:712 INFO  TopMenuPage:295 - Index 3 :: Element is Present:  CHECKOUT
+2024-06-04 16:06:787 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:889 INFO  TopMenuPage:295 - Index 0 :: Element is Present:  SPECIALS
+2024-06-04 16:06:980 INFO  TopMenuPage:295 - Index 1 :: Element is Present:  ACCOUNT
+2024-06-04 16:06:55 INFO  TopMenuPage:295 - Index 2 :: Element is Present:  CART
+2024-06-04 16:06:214 INFO  TopMenuPage:295 - Index 3 :: Element is Present:  CHECKOUT
+2024-06-04 16:06:360 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:452 INFO  TopMenuPage:295 - Index 0 :: Element is Present:  SPECIALS
+2024-06-04 16:06:533 INFO  TopMenuPage:295 - Index 1 :: Element is Present:  ACCOUNT
+2024-06-04 16:06:604 INFO  TopMenuPage:295 - Index 2 :: Element is Present:  CART
+2024-06-04 16:06:695 INFO  TopMenuPage:295 - Index 3 :: Element is Present:  CHECKOUT
+2024-06-04 16:06:795 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:862 INFO  TopMenuPage:295 - Index 0 :: Element is Present:  SPECIALS
+2024-06-04 16:06:913 INFO  TopMenuPage:295 - Index 1 :: Element is Present:  ACCOUNT
+2024-06-04 16:06:983 INFO  TopMenuPage:295 - Index 2 :: Element is Present:  CART
+2024-06-04 16:06:70 INFO  TopMenuPage:295 - Index 3 :: Element is Present:  CHECKOUT
+2024-06-04 16:06:25 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:86 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> css selector: ul#customer_menu_top>li>a]
+2024-06-04 16:06:96 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> css selector: ul#customer_menu_top>li>a]
+2024-06-04 16:06:138 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:939 INFO  VerificationHelper:135 - current page url is :: https://automationteststore.com/index.php?rt=account/login
+2024-06-04 16:06:973 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:340 INFO  VerificationHelper:130 - current page title is :: Account Login
+2024-06-04 16:06:371 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:678 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:756 INFO  BasePage:129 - true
+2024-06-04 16:06:807 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:965 INFO  BasePage:129 - true
+2024-06-04 16:06:25 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:79 INFO  BasePage:129 - true
+2024-06-04 16:06:165 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:215 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> css selector: .col-sm-6.newcustomer > .heading2]
+2024-06-04 16:06:226 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> css selector: .col-sm-6.newcustomer > .heading2]
+2024-06-04 16:06:247 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:287 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> xpath: //h2[contains(text(),'Returning Customer')]]
+2024-06-04 16:06:305 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> xpath: //h2[contains(text(),'Returning Customer')]]
+2024-06-04 16:06:349 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:399 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> css selector: label[for='accountFrm_accountregister']]
+2024-06-04 16:06:418 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> css selector: label[for='accountFrm_accountregister']]
+2024-06-04 16:06:447 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:492 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:525 INFO  JavaScriptHelper:29 - scroll to <Continue> WebElement
+2024-06-04 16:06:651 INFO  BasePage:247 - Waited for element visibility :: Continue
+2024-06-04 16:06:678 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> xpath: //*[@id='accountFrm']/fieldset/button]
+2024-06-04 16:06:688 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> xpath: //*[@id='accountFrm']/fieldset/button]
+2024-06-04 16:06:730 INFO  BasePage:234 - Clicked on :: Continue
+2024-06-04 16:06:205 INFO  VerificationHelper:135 - current page url is :: https://automationteststore.com/index.php?rt=account/create
+2024-06-04 16:06:220 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:284 INFO  VerificationHelper:130 - current page title is :: Create Account
+2024-06-04 16:06:303 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:524 INFO  VerificationHelper:130 - current page title is :: Create Account
+2024-06-04 16:06:533 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:701 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> css selector: span.maintext]
+2024-06-04 16:06:710 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> css selector: span.maintext]
+2024-06-04 16:06:745 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:16 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:128 INFO  BasePage:129 - true
+2024-06-04 16:06:227 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:292 INFO  BasePage:129 - true
+2024-06-04 16:06:328 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:428 INFO  BasePage:129 - true
+2024-06-04 16:06:466 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:504 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/form[1]/p[1]]
+2024-06-04 16:06:506 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/form[1]/p[1]]
+2024-06-04 16:06:541 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:574 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> xpath: //h4[contains(text(),'Your Personal Details')]]
+2024-06-04 16:06:590 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> xpath: //h4[contains(text(),'Your Personal Details')]]
+2024-06-04 16:06:614 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:652 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> xpath: //h4[contains(text(),'Your Address')]]
+2024-06-04 16:06:657 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> xpath: //h4[contains(text(),'Your Address')]]
+2024-06-04 16:06:688 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:757 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> xpath: //h4[contains(text(),'Login Details')]]
+2024-06-04 16:06:780 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> xpath: //h4[contains(text(),'Login Details')]]
+2024-06-04 16:06:806 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:841 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> xpath: //h4[contains(text(),'Newsletter')]]
+2024-06-04 16:06:841 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> xpath: //h4[contains(text(),'Newsletter')]]
+2024-06-04 16:06:874 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:922 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:228 INFO  RegisterPage:226 - Entered first name : FirstName
+2024-06-04 16:06:640 INFO  RegisterPage:232 - Entered last name : LastName
+2024-06-04 16:06:823 INFO  RegisterPage:251 - Entered telephone : 0740500000000
+2024-06-04 16:06:32 INFO  RegisterPage:257 - Entered fax : 0740500000001
+2024-06-04 16:06:328 INFO  RegisterPage:240 - Entered email : 1717515155040@gmail.com
+2024-06-04 16:06:570 INFO  RegisterPage:277 - Entered company name : ABC Company Ltd
+2024-06-04 16:06:883 INFO  RegisterPage:283 - Entered address 1 : Address 1
+2024-06-04 16:06:108 INFO  RegisterPage:289 - Entered address 2 : Address 2
+2024-06-04 16:06:275 INFO  RegisterPage:295 - Entered city : Manchester
+2024-06-04 16:06:527 INFO  BasePage:156 - Option selected by VisibleText ::<Lancashire>
+2024-06-04 16:06:527 INFO  RegisterPage:301 - Selected region or state : Lancashire
+2024-06-04 16:06:687 INFO  RegisterPage:307 - Entered zip or postal code : M18 7QT
+2024-06-04 16:06:870 INFO  BasePage:156 - Option selected by VisibleText ::<United Kingdom>
+2024-06-04 16:06:878 INFO  RegisterPage:313 - Selected country : United Kingdom
+2024-06-04 16:06:227 INFO  RegisterPage:345 - Entered login name : 1717515156945Gen
+2024-06-04 16:06:410 INFO  RegisterPage:352 - Entered password : password
+2024-06-04 16:06:590 INFO  RegisterPage:358 - Entered password confirm : password
+2024-06-04 16:06:655 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> xpath: //label[@for='AccountFrm_newsletter1']]
+2024-06-04 16:06:673 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> xpath: //label[@for='AccountFrm_newsletter1']]
+2024-06-04 16:06:738 INFO  JavaScriptHelper:29 - scroll to <> WebElement
+2024-06-04 16:06:861 INFO  RegisterPage:370 - Ticked on subscribe as yes
+2024-06-04 16:06:905 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> xpath: //label[@for='AccountFrm_newsletter1']]
+2024-06-04 16:06:906 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> xpath: //label[@for='AccountFrm_newsletter1']]
+2024-06-04 16:06:972 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:22 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> css selector: label[class='col-md-6 mt20 mb40'] a b]
+2024-06-04 16:06:22 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> css selector: label[class='col-md-6 mt20 mb40'] a b]
+2024-06-04 16:06:112 INFO  RegisterPage:402 - Checked on I agree to privacy policy radio button
+2024-06-04 16:06:152 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:204 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> css selector: label[class='col-md-6 mt20 mb40'] a b]
+2024-06-04 16:06:204 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> css selector: label[class='col-md-6 mt20 mb40'] a b]
+2024-06-04 16:06:267 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> css selector: button[title='Continue']]
+2024-06-04 16:06:269 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> css selector: button[title='Continue']]
+2024-06-04 16:06:931 INFO  RegisterPage:526 - Click on continue button in registration page
+2024-06-04 16:06:941 INFO  VerificationHelper:135 - current page url is :: https://automationteststore.com/index.php?rt=account/success
+2024-06-04 16:06:959 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:974 INFO  VerificationHelper:130 - current page title is :: Your Account Has Been Created!
+2024-06-04 16:06:980 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:73 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:111 INFO  BasePage:129 - true
+2024-06-04 16:06:146 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:236 INFO  BasePage:129 - true
+2024-06-04 16:06:281 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:365 INFO  BasePage:129 - true
+2024-06-04 16:06:407 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:428 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:448 INFO  VerificationHelper:24 - Element is Displayed: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> xpath: //div[contains(text(),'Welcome back')]]
+2024-06-04 16:06:465 INFO  VerificationHelper:103 - Element text is displayed :: [[ChromeDriver: chrome on windows (eeedcf314c20caea4c9b3267e0fa1420)] -> xpath: //div[contains(text(),'Welcome back')]]
+2024-06-04 16:06:481 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:502 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:519 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:535 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:565 INFO  AssertionHelper:73 - UpdateTestStatus => PASSED
+2024-06-04 16:06:589 INFO  AsideWidgetPage:47 - Taped on Logout link
+2024-06-04 16:06:627 INFO  BasePage:342 - Waited and Successfully clicked on the element :: Continue
+2024-06-04 16:06:627 INFO  BasePage:360 - Waiting for element to be visible
+2024-06-04 16:06:912 INFO  BasePage:363 - Successfully clicked on the element
+2024-06-04 16:06:912 INFO  LogoutPage:46 - Clicked logout continue button..

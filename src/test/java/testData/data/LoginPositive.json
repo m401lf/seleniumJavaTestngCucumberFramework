@@ -1,0 +1,17 @@
+[
+  {
+    "myAccountLink": "My Account",
+    "loginLink": "Login",
+    "emailAddress": "email001@email.com",
+    "password": "Password",
+    "loginSuccessConfirmationMsg": "My Account"
+  },
+  {
+    "myAccountLink": "My Account",
+    "LoginLink": "Login",
+    "emailAddress": "admin001@admin.com",
+    "password": "Password",
+    "loginSuccessConfirmationMsg": "My Account"
+  }
+]
+
